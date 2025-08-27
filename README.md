@@ -18,8 +18,11 @@ It detects human faces in images and video streams in real-time using Haar Casca
 🛠️ Tech Stack
 
 Language: Python 3.x
+
 Libraries:
+
 OpenCV (cv2)
+
 Numpy
 
 
