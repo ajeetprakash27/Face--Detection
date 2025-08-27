@@ -6,9 +6,13 @@ It detects human faces in images and video streams in real-time using Haar Casca
 🚀 Features
 
 ✅ Real-time face detection using webcam
+
 ✅ Detect multiple faces simultaneously
+
 ✅ Works on images, video files, and live streams
+
 ✅ Lightweight and fast (OpenCV Haar Cascade)
+
 ✅ Easily extendable with deep learning models (e.g., SSD, MTCNN, Dlib)
 
 🛠️ Tech Stack
